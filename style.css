@@ -1,0 +1,12 @@
+ul {background-color: rgb(74, 4, 16);
+  list-style-type: square;
+  height: auto;
+  width: 300px;
+  display: block;  
+}
+body {background-color: rgb(125, 4, 4);}
+.title {color: goldenrod;}
+
+li { color: antiquewhite;
+display: block;}
+img {padding-left:30px; width: 50; height: 50;}
